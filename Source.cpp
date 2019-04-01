@@ -7,7 +7,6 @@
 #include <regex>
 /*
 Author: Zackary Finer
-		011195639
 
 Description:
 	For this submission, i've made several modifications to the address space class, added a sharedData struct, and a DataLoader class.
